@@ -1,154 +1,135 @@
-# WanderWise Travel Planner
+<h1 align="center">WanderWise</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=980&lines=Full-Stack+Travel+Planning+Platform;React+%2B+Vite+Frontend+%7C+Spring+Boot+Backend;Role-Based+Dashboards%2C+Bookings%2C+Payments%2C+Notifications" alt="Animated project intro" />
+  <strong>AI-powered travel planning platform built with React, Vite, Spring Boot, and MySQL.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-0ea5e9?style=for-the-badge&logo=react" alt="Frontend badge" />
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%204-16a34a?style=for-the-badge&logo=springboot" alt="Backend badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-1d4ed8?style=for-the-badge&logo=mysql" alt="Database badge" />
-  <img src="https://img.shields.io/badge/Auth-JWT-f59e0b?style=for-the-badge&logo=jsonwebtokens" alt="Auth badge" />
+  Plan trips, browse tours, discover hotel matches, manage bookings, and operate traveler and admin dashboards from one full-stack app.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
+  <img src="https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 7" />
+  <img src="https://img.shields.io/badge/Spring_Boot-4.0.2-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 4" />
+  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8" />
+  <img src="https://img.shields.io/badge/Auth-JWT-F59E0B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT auth" />
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#feature-snapshot">Features</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#api-overview">API</a>
 </p>
 
 ## Overview
-WanderWise is a full-stack travel planning application with:
 
-- Public travel/tour browsing and booking flows
-- Traveler dashboard (trips, budget, notifications, preferences)
-- Admin dashboard (users, tours/itineraries, bookings, reports, payments, recommendations)
-- JWT-based authentication with role-based access control
-- Automatic backend seeding of tour data at startup
+WanderWise is a full-stack travel planner that combines public tour discovery, role-based authentication, bookings, payments, hotel suggestions, AI-assisted planning, and separate traveler/admin workspaces. The project uses a React frontend for the user experience and a Spring Boot backend for secure APIs, business logic, and MySQL persistence.
 
-## Animated README Sections
-This README includes animated SVG banners.  
-If you want animated product demos too, add GIF files and link them in this section:
+## Feature Snapshot
 
-- `docs/animations/traveler-dashboard.gif`
-- `docs/animations/admin-dashboard.gif`
-- `docs/animations/tour-booking-flow.gif`
-
-Example markdown:
-
-```md
-![Traveler Dashboard Demo](docs/animations/traveler-dashboard.gif)
-```
+| Area | What it includes |
+| --- | --- |
+| Public experience | Home page, tours listing, tour details, booking pages, about/services, contact, review, and legal pages |
+| Traveler workspace | Dashboard, My Trips, trip details, hotel suggestions, notifications, profile/settings, and demo payment flow |
+| Admin workspace | Overview dashboard, users, hotels, tours, bookings, payments, contact messages, and recommendations |
+| AI tools | Chat assistant, travel recommendation engine, and travel-mode suggestion |
+| Security | JWT authentication with `USER` and `ADMIN` role-based access |
 
 ## Tech Stack
-### Frontend
-- React 19
-- Vite 7
-- Tailwind CSS 4
-- React Router
-- React Hook Form + Yup
-- Framer Motion
-- Recharts
 
-### Backend
-- Spring Boot 4
-- Spring Web MVC
-- Spring Data JPA
-- Spring Security
-- MySQL
-- JWT (`jjwt`)
-- Lombok
+| Layer | Tools |
+| --- | --- |
+| Frontend | React 19, Vite 7, React Router, Tailwind CSS 4, React Hook Form, Yup, Framer Motion, Recharts |
+| Backend | Spring Boot 4, Spring Web MVC, Spring Security, Spring Data JPA, Validation, Lombok |
+| Database | MySQL |
+| Auth | JWT (`jjwt`) |
+| AI | OpenAI-compatible chat completions with database-grounded prompts and fallback behavior |
 
 ## Project Structure
+
 ```text
 Travel-Planner/
-  Travel-Planner Frontend/   # React app (UI, pages, dashboard widgets, API calls)
-  Travel-Planner Backend/    # Spring Boot API (auth, tours, bookings, trips, admin)
+|-- Travel-Planner Frontend/
+|   |-- src/
+|   |-- public/
+|   `-- package.json
+|-- Travel-Planner Backend/
+|   |-- src/main/java/
+|   |-- src/main/resources/
+|   `-- pom.xml
+|-- AI_PROMPTS.md
+`-- README.md
 ```
 
-## Core Features
-### Public
-- Browse all tours by category
-- View tour details, itinerary, dynamic weather, and pricing
-- Book tours with traveler details
+## Core Capabilities
 
-### Traveler
-- Personal dashboard overview
-- My Trips view (upcoming/completed + trip detail)
-- Notifications center
-- Settings (profile, preferences, notification options)
+- Browse tours and tour details with dynamic destination-based routes.
+- Create traveler bookings and hotel booking requests.
+- View trips, notifications, budget widgets, and personalized hotel suggestions.
+- Manage users, hotels, tours, bookings, payments, and contact messages from the admin dashboard.
+- Use AI to answer travel questions, recommend trips, and compare travel modes.
+- Seed tours and hotels automatically from JSON files on backend startup.
 
-### Admin
-- Dashboard overview and recommendations
-- User management (role/status updates, delete)
-- Trips and itinerary management
-- Booking approvals/rejections
-- Payment monitoring
+## Getting Started
 
-## Backend API Modules
-Main API groups from backend controllers:
+### Prerequisites
 
-- `/api/auth` - signup/login
-- `/api/tours` - list tours and tour by slug
-- `/api/bookings` - traveler bookings + admin booking actions
-- `/api/payments` - payments and admin payment view
-- `/api/trips` - traveler trip history/details
-- `/api/notifications` - traveler notification actions
-- `/api/dashboard` - traveler dashboard payload
-- `/api/admin/dashboard` - admin overview
-- `/api/admin/users` - user administration
-- `/api/admin/recommendations` - recommendation data
-- `/api/users/me/settings` - traveler settings/profile/preferences
-
-## Tour Data Seeding (Automatic)
-When backend starts, tours are automatically seeded from:
-
-`Travel-Planner Backend/src/main/resources/seed/all-tours.json`
-
-This means frontend no longer needs static seed files for tours.
-
-## Prerequisites
-- Node.js 20+ and npm
+- Node.js 20+
+- npm
 - Java 17+
 - MySQL 8+
 
-## Local Setup
-### 1) Clone
+### 1. Clone the repository
+
 ```bash
 git clone <your-repo-url>
 cd Travel-Planner
 ```
 
-### 2) Create Database
+### 2. Create the database
+
 ```sql
 CREATE DATABASE wanderwise_db;
 ```
 
-### 3) Configure Backend
-Edit:
+### 3. Configure the backend
 
-`Travel-Planner Backend/src/main/resources/application.properties`
+Update `Travel-Planner Backend/src/main/resources/application.properties` with your local values:
 
-Set at least:
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/wanderwise_db
+spring.datasource.username=your_mysql_user
+spring.datasource.password=your_mysql_password
 
-- `spring.datasource.url`
-- `spring.datasource.username`
-- `spring.datasource.password`
-- `app.jwt.secret`
-- `app.cors.allowed-origins`
+app.jwt.secret=your_minimum_32_character_secret_key
+app.jwt.expiration-ms=86400000
+app.cors.allowed-origins=http://localhost:5173
+```
 
-### 4) Run Backend
+Optional AI environment variables:
+
+```env
+AI_ENABLED=true
+OPENAI_API_KEY=your_openai_api_key
+OPENAI_MODEL=gpt-4.1
+OPENAI_BASE_URL=https://api.openai.com/v1
+OPENAI_TEMPERATURE=0.4
+```
+
+### 4. Run the backend
+
 ```powershell
 cd "Travel-Planner Backend"
 .\mvnw.cmd spring-boot:run
 ```
 
-Backend runs on: `http://localhost:8080`
+Backend default URL: `http://localhost:8080`
 
-### 5) Run Frontend
-```powershell
-cd "Travel-Planner Frontend"
-npm install
-npm run dev
-```
+### 5. Run the frontend
 
-Frontend runs on: `http://localhost:5173`
-
-## Frontend Environment Variables
 Create `Travel-Planner Frontend/.env`:
 
 ```env
@@ -156,8 +137,20 @@ VITE_API_BASE_URL=http://localhost:8080
 VITE_SUPPORT_PHONE=+91 98765 43210
 ```
 
-## Useful Commands
+Start the app:
+
+```powershell
+cd "Travel-Planner Frontend"
+npm install
+npm run dev
+```
+
+Frontend default URL: `http://localhost:5173`
+
+## Development Commands
+
 ### Frontend
+
 ```bash
 npm run dev
 npm run build
@@ -166,44 +159,51 @@ npm run lint
 ```
 
 ### Backend
+
 ```powershell
 .\mvnw.cmd spring-boot:run
 .\mvnw.cmd test
 ```
 
-## Authentication and Roles
-- `USER` role: traveler features and booking flows
-- `ADMIN` role: admin dashboard and management APIs
+## API Overview
 
-JWT token is issued at login/signup and sent as:
+- `POST /api/auth/signup` and `POST /api/auth/login` for authentication
+- `GET /api/tours` and `GET /api/tours/{slug}` for tour discovery
+- `GET /api/hotels` and `GET /api/hotels/suggestions` for hotel data and suggestions
+- `POST /api/bookings`, `GET /api/bookings/me`, and admin booking status endpoints for tour bookings
+- `POST /api/hotel-bookings`, `GET /api/hotel-bookings/me`, and admin status endpoints for hotel bookings
+- `POST /api/payments`, `GET /api/payments/me`, and `GET /api/payments/admin` for payments
+- `GET /api/dashboard/me`, `GET /api/trips/me`, and `GET /api/notifications/me` for traveler workspace data
+- `GET /api/admin/dashboard/overview`, `/api/admin/users`, `/api/admin/tours`, `/api/admin/hotels`, `/api/admin/recommendations`, and `/api/admin/contact-messages` for admin operations
+- `POST /api/chat`, `POST /api/recommend`, and `POST /api/travel-mode` for AI-assisted planning
 
-`Authorization: Bearer <token>`
+## Seed Data
 
-## Troubleshooting
-### Backend fails to connect to DB
-- Check MySQL service is running
-- Verify DB name/user/password in `application.properties`
-- Ensure `wanderwise_db` exists
+The backend automatically syncs startup data from:
 
-### CORS errors in frontend
-- Ensure `app.cors.allowed-origins` includes frontend origin (`http://localhost:5173`)
+- `Travel-Planner Backend/src/main/resources/seed/all-tours.json`
+- `Travel-Planner Backend/src/main/resources/seed/hotels.json`
 
-### Tours not appearing
-- Confirm backend startup logs show seed load from `seed/all-tours.json`
-- Check `/api/tours` returns data
+This helps the app boot with ready-to-use catalog data for tours and hotels.
+
+## Roles
+
+- `USER` can browse, book, manage trips, view notifications, and use traveler features
+- `ADMIN` can access operational dashboards and management APIs
+
+JWT tokens are expected in the `Authorization` header using the `Bearer <token>` format.
 
 ## Security Note
-Avoid committing real secrets.  
-Move DB credentials and JWT secret to environment variables or secret management for production.
 
-## Contribution Workflow
-1. Create a feature branch
-2. Make changes with clear commit messages
-3. Run frontend build and backend tests
-4. Open pull request with testing notes
+Do not commit real database passwords, JWT secrets, or AI API keys. Move sensitive values to environment variables or a secret manager before sharing or deploying this project.
 
----
+## Future Improvements
+
+- Add screenshots or GIF demos for the home page, traveler dashboard, and admin dashboard
+- Add Docker support for one-command local setup
+- Add CI checks for frontend build and backend tests
+- Add API documentation with Swagger or OpenAPI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=980&lines=Build+Smart.+Travel+Better.+Ship+Fast." alt="Animated footer line" />
+  Built for smarter trip planning with structured data, AI assistance, and role-based workflows.
 </p>
