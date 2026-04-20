@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "Tokyo Central Hotel",
+    "destination": "Tokyo",
+    "country": "Japan",
+    "address": "Downtown Tokyo, Japan",
+    "pricePerNight": 39200,
+    "currency": "INR",
+    "rating": 3.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-001/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Orlando Grand Stay",
+    "destination": "Orlando, FL",
+    "country": "USA",
+    "address": "Downtown Orlando, FL, USA",
+    "pricePerNight": 44800,
+    "currency": "INR",
+    "rating": 3.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-002/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Billund Vista Suites",
+    "destination": "Billund",
+    "country": "Denmark",
+    "address": "Downtown Billund, Denmark",
+    "pricePerNight": 50400,
+    "currency": "INR",
+    "rating": 3.9,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-003/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Sentosa Island Prime Residency",
+    "destination": "Sentosa Island",
+    "country": "Singapore",
+    "address": "Downtown Sentosa Island, Singapore",
+    "pricePerNight": 56000,
+    "currency": "INR",
+    "rating": 4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-004/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Gold Coast Harbor Inn",
+    "destination": "Gold Coast",
+    "country": "Australia",
+    "address": "Downtown Gold Coast, Australia",
+    "pricePerNight": 61100,
+    "currency": "INR",
+    "rating": 4.1,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-005/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Santorini Skyline Retreat",
+    "destination": "Santorini",
+    "country": "Greece",
+    "address": "Downtown Santorini, Greece",
+    "pricePerNight": 56200,
+    "currency": "INR",
+    "rating": 4.2,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-006/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Baa Atoll Urban Palace",
+    "destination": "Baa Atoll",
+    "country": "Maldives",
+    "address": "Downtown Baa Atoll, Maldives",
+    "pricePerNight": 61700,
+    "currency": "INR",
+    "rating": 4.3,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-007/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Paris Signature Hotel",
+    "destination": "Paris",
+    "country": "France",
+    "address": "Downtown Paris, France",
+    "pricePerNight": 67300,
+    "currency": "INR",
+    "rating": 4.4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-008/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Amalfi Coast Central Hotel",
+    "destination": "Amalfi Coast",
+    "country": "Italy",
+    "address": "Downtown Amalfi Coast, Italy",
+    "pricePerNight": 72900,
+    "currency": "INR",
+    "rating": 4.5,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-009/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Ubud Grand Stay",
+    "destination": "Ubud, Bali",
+    "country": "Indonesia",
+    "address": "Downtown Ubud, Bali, Indonesia",
+    "pricePerNight": 78000,
+    "currency": "INR",
+    "rating": 4.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-010/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Interlaken Vista Suites",
+    "destination": "Interlaken",
+    "country": "Switzerland",
+    "address": "Downtown Interlaken, Switzerland",
+    "pricePerNight": 83600,
+    "currency": "INR",
+    "rating": 4.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-011/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Reykjav\u00edk Prime Residency",
+    "destination": "Reykjav\u00edk",
+    "country": "Iceland",
+    "address": "Downtown Reykjav\u00edk, Iceland",
+    "pricePerNight": 78700,
+    "currency": "INR",
+    "rating": 4.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-012/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Queenstown Harbor Inn",
+    "destination": "Queenstown",
+    "country": "New Zealand",
+    "address": "Downtown Queenstown, New Zealand",
+    "pricePerNight": 78800,
+    "currency": "INR",
+    "rating": 3.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-013/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Lofoten Islands Skyline Retreat",
+    "destination": "Lofoten Islands",
+    "country": "Norway",
+    "address": "Downtown Lofoten Islands, Norway",
+    "pricePerNight": 84400,
+    "currency": "INR",
+    "rating": 3.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-014/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Banff Urban Palace",
+    "destination": "Banff",
+    "country": "Canada",
+    "address": "Downtown Banff, Canada",
+    "pricePerNight": 89500,
+    "currency": "INR",
+    "rating": 3.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-015/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Rome Signature Hotel",
+    "destination": "Rome",
+    "country": "Italy",
+    "address": "Downtown Rome, Italy",
+    "pricePerNight": 44300,
+    "currency": "INR",
+    "rating": 3.9,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-016/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Giza/Cairo Central Hotel",
+    "destination": "Giza/Cairo",
+    "country": "Egypt",
+    "address": "Downtown Giza/Cairo, Egypt",
+    "pricePerNight": 49900,
+    "currency": "INR",
+    "rating": 4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-017/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Barcelona Grand Stay",
+    "destination": "Barcelona",
+    "country": "Spain",
+    "address": "Downtown Barcelona, Spain",
+    "pricePerNight": 45000,
+    "currency": "INR",
+    "rating": 4.1,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-018/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Cappadocia Vista Suites",
+    "destination": "Cappadocia",
+    "country": "Turkey",
+    "address": "Downtown Cappadocia, Turkey",
+    "pricePerNight": 50600,
+    "currency": "INR",
+    "rating": 4.2,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-019/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Chiang Mai Prime Residency",
+    "destination": "Chiang Mai",
+    "country": "Thailand",
+    "address": "Downtown Chiang Mai, Thailand",
+    "pricePerNight": 55700,
+    "currency": "INR",
+    "rating": 4.3,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-020/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Boom (Tomorrowland) Harbor Inn",
+    "destination": "Boom (Tomorrowland)",
+    "country": "Belgium",
+    "address": "Downtown Boom (Tomorrowland), Belgium",
+    "pricePerNight": 61300,
+    "currency": "INR",
+    "rating": 4.4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-021/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Indio Skyline Retreat",
+    "destination": "Indio, California",
+    "country": "USA",
+    "address": "Downtown Indio, California, USA",
+    "pricePerNight": 66800,
+    "currency": "INR",
+    "rating": 4.5,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-022/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Munich (Oktoberfest) Urban Palace",
+    "destination": "Munich (Oktoberfest)",
+    "country": "Germany",
+    "address": "Downtown Munich (Oktoberfest), Germany",
+    "pricePerNight": 72400,
+    "currency": "INR",
+    "rating": 4.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-023/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Rio de Janeiro (Carnival) Signature Hotel",
+    "destination": "Rio de Janeiro (Carnival)",
+    "country": "Brazil",
+    "address": "Downtown Rio de Janeiro (Carnival), Brazil",
+    "pricePerNight": 67500,
+    "currency": "INR",
+    "rating": 4.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-024/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Jaipur (Holi Festival) Central Hotel",
+    "destination": "Jaipur (Holi Festival)",
+    "country": "India",
+    "address": "Downtown Jaipur (Holi Festival), India",
+    "pricePerNight": 72600,
+    "currency": "INR",
+    "rating": 4.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-025/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Cusco & Machu Picchu Grand Stay",
+    "destination": "Cusco & Machu Picchu",
+    "country": "Peru",
+    "address": "Downtown Cusco & Machu Picchu, Peru",
+    "pricePerNight": 72700,
+    "currency": "INR",
+    "rating": 3.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-026/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Dubai Vista Suites",
+    "destination": "Dubai",
+    "country": "UAE",
+    "address": "Downtown Dubai, UAE",
+    "pricePerNight": 78300,
+    "currency": "INR",
+    "rating": 3.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-027/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Cape Town Prime Residency",
+    "destination": "Cape Town",
+    "country": "South Africa",
+    "address": "Downtown Cape Town, South Africa",
+    "pricePerNight": 83900,
+    "currency": "INR",
+    "rating": 3.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-028/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Rovaniemi Harbor Inn",
+    "destination": "Rovaniemi",
+    "country": "Finland",
+    "address": "Downtown Rovaniemi, Finland",
+    "pricePerNight": 89500,
+    "currency": "INR",
+    "rating": 3.9,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-029/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Petra & Wadi Rum Skyline Retreat",
+    "destination": "Petra & Wadi Rum",
+    "country": "Jordan",
+    "address": "Downtown Petra & Wadi Rum, Jordan",
+    "pricePerNight": 84100,
+    "currency": "INR",
+    "rating": 4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-030/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Mahe Island Urban Palace",
+    "destination": "Mahe Island",
+    "country": "Seychelles",
+    "address": "Downtown Mahe Island, Seychelles",
+    "pricePerNight": 39000,
+    "currency": "INR",
+    "rating": 4.1,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-031/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Palawan Signature Hotel",
+    "destination": "Palawan",
+    "country": "Philippines",
+    "address": "Downtown Palawan, Philippines",
+    "pricePerNight": 44500,
+    "currency": "INR",
+    "rating": 4.2,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-032/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Bora Bora Central Hotel",
+    "destination": "Bora Bora",
+    "country": "French Polynesia",
+    "address": "Downtown Bora Bora, French Polynesia",
+    "pricePerNight": 50100,
+    "currency": "INR",
+    "rating": 4.3,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-033/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Hvar Island Grand Stay",
+    "destination": "Hvar Island",
+    "country": "Croatia",
+    "address": "Downtown Hvar Island, Croatia",
+    "pricePerNight": 55700,
+    "currency": "INR",
+    "rating": 4.4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-034/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Gili Islands Vista Suites",
+    "destination": "Gili Islands",
+    "country": "Indonesia",
+    "address": "Downtown Gili Islands, Indonesia",
+    "pricePerNight": 60800,
+    "currency": "INR",
+    "rating": 4.5,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-035/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Phuket & Phi Phi Islands Prime Residency",
+    "destination": "Phuket & Phi Phi Islands",
+    "country": "Thailand",
+    "address": "Downtown Phuket & Phi Phi Islands, Thailand",
+    "pricePerNight": 55900,
+    "currency": "INR",
+    "rating": 4.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-036/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Ibiza Harbor Inn",
+    "destination": "Ibiza",
+    "country": "Spain",
+    "address": "Downtown Ibiza, Spain",
+    "pricePerNight": 61500,
+    "currency": "INR",
+    "rating": 4.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-037/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Madeira Island Skyline Retreat",
+    "destination": "Madeira Island",
+    "country": "Portugal",
+    "address": "Downtown Madeira Island, Portugal",
+    "pricePerNight": 67000,
+    "currency": "INR",
+    "rating": 4.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-038/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Goa (Sunburn Festival) Urban Palace",
+    "destination": "Goa (Sunburn Festival)",
+    "country": "India",
+    "address": "Downtown Goa (Sunburn Festival), India",
+    "pricePerNight": 67200,
+    "currency": "INR",
+    "rating": 3.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-039/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Zermatt Signature Hotel",
+    "destination": "Zermatt",
+    "country": "Switzerland",
+    "address": "Downtown Zermatt, Switzerland",
+    "pricePerNight": 72300,
+    "currency": "INR",
+    "rating": 3.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-040/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Ha Long Bay Central Hotel",
+    "destination": "Ha Long Bay",
+    "country": "Vietnam",
+    "address": "Downtown Ha Long Bay, Vietnam",
+    "pricePerNight": 77800,
+    "currency": "INR",
+    "rating": 3.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-041/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Marrakech & Sahara Grand Stay",
+    "destination": "Marrakech & Sahara",
+    "country": "Morocco",
+    "address": "Downtown Marrakech & Sahara, Morocco",
+    "pricePerNight": 72900,
+    "currency": "INR",
+    "rating": 3.9,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-042/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Cancun & Isla Mujeres Vista Suites",
+    "destination": "Cancun & Isla Mujeres",
+    "country": "Mexico",
+    "address": "Downtown Cancun & Isla Mujeres, Mexico",
+    "pricePerNight": 78500,
+    "currency": "INR",
+    "rating": 4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-043/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Vienna Prime Residency",
+    "destination": "Vienna",
+    "country": "Austria",
+    "address": "Downtown Vienna, Austria",
+    "pricePerNight": 84100,
+    "currency": "INR",
+    "rating": 4.1,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-044/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Zanzibar Harbor Inn",
+    "destination": "Zanzibar",
+    "country": "Tanzania",
+    "address": "Downtown Zanzibar, Tanzania",
+    "pricePerNight": 89200,
+    "currency": "INR",
+    "rating": 4.2,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-045/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "El Calafate (Patagonia) Skyline Retreat",
+    "destination": "El Calafate (Patagonia)",
+    "country": "Argentina",
+    "address": "Downtown El Calafate (Patagonia), Argentina",
+    "pricePerNight": 44100,
+    "currency": "INR",
+    "rating": 4.3,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-046/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Kyoto Urban Palace",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "address": "Downtown Kyoto, Japan",
+    "pricePerNight": 49700,
+    "currency": "INR",
+    "rating": 4.4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-047/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Amsterdam Signature Hotel",
+    "destination": "Amsterdam",
+    "country": "Netherlands",
+    "address": "Downtown Amsterdam, Netherlands",
+    "pricePerNight": 44700,
+    "currency": "INR",
+    "rating": 4.5,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-048/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Lake Bled & Ljubljana Central Hotel",
+    "destination": "Lake Bled & Ljubljana",
+    "country": "Slovenia",
+    "address": "Downtown Lake Bled & Ljubljana, Slovenia",
+    "pricePerNight": 50300,
+    "currency": "INR",
+    "rating": 4.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-049/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Paro & Thimphu Grand Stay",
+    "destination": "Paro & Thimphu",
+    "country": "Bhutan",
+    "address": "Downtown Paro & Thimphu, Bhutan",
+    "pricePerNight": 55400,
+    "currency": "INR",
+    "rating": 4.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-050/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Atacama Desert Vista Suites",
+    "destination": "Atacama Desert",
+    "country": "Chile",
+    "address": "Downtown Atacama Desert, Chile",
+    "pricePerNight": 61000,
+    "currency": "INR",
+    "rating": 4.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-051/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Crete Prime Residency",
+    "destination": "Crete",
+    "country": "Greece",
+    "address": "Downtown Crete, Greece",
+    "pricePerNight": 61100,
+    "currency": "INR",
+    "rating": 3.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-052/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Maui Harbor Inn",
+    "destination": "Maui, Hawaii",
+    "country": "USA",
+    "address": "Downtown Maui, Hawaii, USA",
+    "pricePerNight": 66700,
+    "currency": "INR",
+    "rating": 3.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-053/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Prague Skyline Retreat",
+    "destination": "Prague",
+    "country": "Czech Republic",
+    "address": "Downtown Prague, Czech Republic",
+    "pricePerNight": 61800,
+    "currency": "INR",
+    "rating": 3.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-054/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Istanbul Urban Palace",
+    "destination": "Istanbul",
+    "country": "Turkey",
+    "address": "Downtown Istanbul, Turkey",
+    "pricePerNight": 66900,
+    "currency": "INR",
+    "rating": 3.9,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-055/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Masai Mara Signature Hotel",
+    "destination": "Masai Mara",
+    "country": "Kenya",
+    "address": "Downtown Masai Mara, Kenya",
+    "pricePerNight": 72500,
+    "currency": "INR",
+    "rating": 4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-056/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Langkawi Central Hotel",
+    "destination": "Langkawi",
+    "country": "Malaysia",
+    "address": "Downtown Langkawi, Malaysia",
+    "pricePerNight": 78000,
+    "currency": "INR",
+    "rating": 4.1,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-057/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Dublin & Cliffs of Moher Grand Stay",
+    "destination": "Dublin & Cliffs of Moher",
+    "country": "Ireland",
+    "address": "Downtown Dublin & Cliffs of Moher, Ireland",
+    "pricePerNight": 83600,
+    "currency": "INR",
+    "rating": 4.2,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-058/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Pokhara Vista Suites",
+    "destination": "Pokhara",
+    "country": "Nepal",
+    "address": "Downtown Pokhara, Nepal",
+    "pricePerNight": 89200,
+    "currency": "INR",
+    "rating": 4.3,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-059/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Tromso Prime Residency",
+    "destination": "Tromso",
+    "country": "Norway",
+    "address": "Downtown Tromso, Norway",
+    "pricePerNight": 83800,
+    "currency": "INR",
+    "rating": 4.4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-060/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Ella & Nuwara Eliya Harbor Inn",
+    "destination": "Ella & Nuwara Eliya",
+    "country": "Sri Lanka",
+    "address": "Downtown Ella & Nuwara Eliya, Sri Lanka",
+    "pricePerNight": 89400,
+    "currency": "INR",
+    "rating": 4.5,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-061/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Da Nang & Hoi An Skyline Retreat",
+    "destination": "Da Nang & Hoi An",
+    "country": "Vietnam",
+    "address": "Downtown Da Nang & Hoi An, Vietnam",
+    "pricePerNight": 44300,
+    "currency": "INR",
+    "rating": 4.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-062/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "French Riviera (Nice) Urban Palace",
+    "destination": "French Riviera (Nice)",
+    "country": "France",
+    "address": "Downtown French Riviera (Nice), France",
+    "pricePerNight": 49800,
+    "currency": "INR",
+    "rating": 4.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-063/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Muscat & Wadi Shab Signature Hotel",
+    "destination": "Muscat & Wadi Shab",
+    "country": "Oman",
+    "address": "Downtown Muscat & Wadi Shab, Oman",
+    "pricePerNight": 55400,
+    "currency": "INR",
+    "rating": 4.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-064/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Arequipa & Colca Canyon Central Hotel",
+    "destination": "Arequipa & Colca Canyon",
+    "country": "Peru",
+    "address": "Downtown Arequipa & Colca Canyon, Peru",
+    "pricePerNight": 55100,
+    "currency": "INR",
+    "rating": 3.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-065/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Volcanoes National Park Grand Stay",
+    "destination": "Volcanoes National Park",
+    "country": "Rwanda",
+    "address": "Downtown Volcanoes National Park, Rwanda",
+    "pricePerNight": 50200,
+    "currency": "INR",
+    "rating": 3.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-066/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Jeju Island Vista Suites",
+    "destination": "Jeju Island",
+    "country": "South Korea",
+    "address": "Downtown Jeju Island, South Korea",
+    "pricePerNight": 55700,
+    "currency": "INR",
+    "rating": 3.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-067/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Aoraki/Mount Cook Prime Residency",
+    "destination": "Aoraki/Mount Cook",
+    "country": "New Zealand",
+    "address": "Downtown Aoraki/Mount Cook, New Zealand",
+    "pricePerNight": 61300,
+    "currency": "INR",
+    "rating": 3.9,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-068/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Nosy Be Harbor Inn",
+    "destination": "Nosy Be",
+    "country": "Madagascar",
+    "address": "Downtown Nosy Be, Madagascar",
+    "pricePerNight": 66900,
+    "currency": "INR",
+    "rating": 4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-069/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Black Forest Skyline Retreat",
+    "destination": "Black Forest",
+    "country": "Germany",
+    "address": "Downtown Black Forest, Germany",
+    "pricePerNight": 72000,
+    "currency": "INR",
+    "rating": 4.1,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-070/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Tokyo Boutique House",
+    "destination": "Tokyo",
+    "country": "Japan",
+    "address": "Tourist District, Tokyo, Japan",
+    "pricePerNight": 87900,
+    "currency": "INR",
+    "rating": 4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-071/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Orlando Premium Suites",
+    "destination": "Orlando, FL",
+    "country": "USA",
+    "address": "Tourist District, Orlando, FL, USA",
+    "pricePerNight": 83400,
+    "currency": "INR",
+    "rating": 4.1,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-072/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  },
+  {
+    "name": "Billund Royal Plaza",
+    "destination": "Billund",
+    "country": "Denmark",
+    "address": "Tourist District, Billund, Denmark",
+    "pricePerNight": 89400,
+    "currency": "INR",
+    "rating": 4.2,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-073/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Beach Access",
+      "Kids Club",
+      "Evening Entertainment"
+    ]
+  },
+  {
+    "name": "Sentosa Island Heritage Resort",
+    "destination": "Sentosa Island",
+    "country": "Singapore",
+    "address": "Tourist District, Sentosa Island, Singapore",
+    "pricePerNight": 95300,
+    "currency": "INR",
+    "rating": 4.3,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-074/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Business Center",
+      "Laundry",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Gold Coast Lakefront Lodge",
+    "destination": "Gold Coast",
+    "country": "Australia",
+    "address": "Tourist District, Gold Coast, Australia",
+    "pricePerNight": 101300,
+    "currency": "INR",
+    "rating": 4.4,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-075/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop Lounge",
+      "Smart TV",
+      "Workspace"
+    ]
+  },
+  {
+    "name": "Santorini Garden Inn",
+    "destination": "Santorini",
+    "country": "Greece",
+    "address": "Tourist District, Santorini, Greece",
+    "pricePerNight": 107300,
+    "currency": "INR",
+    "rating": 4.5,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-076/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast Included",
+      "Airport Shuttle",
+      "24x7 Front Desk"
+    ]
+  },
+  {
+    "name": "Baa Atoll Panorama Hotel",
+    "destination": "Baa Atoll",
+    "country": "Maldives",
+    "address": "Tourist District, Baa Atoll, Maldives",
+    "pricePerNight": 56000,
+    "currency": "INR",
+    "rating": 4.6,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-077/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym",
+      "Family Rooms"
+    ]
+  },
+  {
+    "name": "Paris Elite Residency",
+    "destination": "Paris",
+    "country": "France",
+    "address": "Tourist District, Paris, France",
+    "pricePerNight": 51400,
+    "currency": "INR",
+    "rating": 4.7,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-078/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Restaurant",
+      "City View",
+      "Air Conditioning"
+    ]
+  },
+  {
+    "name": "Amalfi Coast Boutique House",
+    "destination": "Amalfi Coast",
+    "country": "Italy",
+    "address": "Tourist District, Amalfi Coast, Italy",
+    "pricePerNight": 57400,
+    "currency": "INR",
+    "rating": 4.8,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-079/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Concierge",
+      "Parking"
+    ]
+  },
+  {
+    "name": "Ubud Premium Suites",
+    "destination": "Ubud, Bali",
+    "country": "Indonesia",
+    "address": "Tourist District, Ubud, Bali, Indonesia",
+    "pricePerNight": 63400,
+    "currency": "INR",
+    "rating": 4.9,
+    "img": "https://picsum.photos/seed/wanderwise-hotel-080/1200/800",
+    "amenities": [
+      "Free WiFi",
+      "Mountain View",
+      "Coffee Bar",
+      "Late Checkout"
+    ]
+  }
+]

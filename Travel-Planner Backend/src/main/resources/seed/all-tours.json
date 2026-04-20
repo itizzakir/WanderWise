@@ -1,0 +1,1490 @@
+﻿[
+  {
+    "country": "Japan",
+    "destination": "Tokyo",
+    "category": "Family",
+    "description": "DisneySea, interactive museums, and incredibly safe streets.",
+    "duration": 7,
+    "img": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Tokyo & Shinjuku Exploration",
+      "Day 2: Tokyo Disneyland or DisneySea",
+      "Day 3: Asakusa (Senso-ji Temple) & Skytree",
+      "Day 4: Ghibli Museum & Inokashira Park",
+      "Day 5: Harajuku & Shibuya Crossing",
+      "Day 6: Day trip to Hakone (Mt. Fuji views)",
+      "Day 7: Souvenir shopping & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 18,
+      "baseHumidity": 60,
+      "baseWind": 10,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "USA",
+    "destination": "Orlando, FL",
+    "category": "Family",
+    "description": "The theme park capital of the world (Disney & Universal).",
+    "duration": 6,
+    "img": "https://images.pexels.com/photos/34936498/pexels-photo-34936498.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "plan": [
+      "Day 1: Arrival & Disney Springs",
+      "Day 2: Magic Kingdom",
+      "Day 3: Epcot Center",
+      "Day 4: Universal Studios Florida",
+      "Day 5: Islands of Adventure",
+      "Day 6: Relaxation at resort pool & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 28,
+      "baseHumidity": 80,
+      "baseWind": 15,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Denmark",
+    "destination": "Billund",
+    "category": "Family",
+    "description": "The home of LEGO—The original Legoland and LEGO House.",
+    "duration": 4,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Legoland_Billund_Denmark_2012.JPG",
+    "plan": [
+      "Day 1: Arrival in Billund & LEGO House Experience",
+      "Day 2: Full day at LEGOLAND Billund",
+      "Day 3: Lalandia Aquadome water park",
+      "Day 4: Teddy Bear Art Museum & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 12,
+      "baseHumidity": 70,
+      "baseWind": 20,
+      "defaultCondition": "Rainy"
+    }
+  },
+  {
+    "country": "Singapore",
+    "destination": "Sentosa Island",
+    "category": "Family",
+    "description": "Universal Studios, giant aquariums, and clean beaches.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1525183995014-bd94c0750cd5?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival & Siloso Beach",
+      "Day 2: Universal Studios Singapore",
+      "Day 3: S.E.A. Aquarium & Adventure Cove Waterpark",
+      "Day 4: Skyline Luge & Wings of Time show",
+      "Day 5: Cable car ride & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 31,
+      "baseHumidity": 90,
+      "baseWind": 10,
+      "defaultCondition": "Stormy"
+    }
+  },
+  {
+    "country": "Australia",
+    "destination": "Gold Coast",
+    "category": "Family",
+    "description": "Great surf schools and numerous wildlife sanctuaries.",
+    "duration": 8,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Surfers_Paradise_Beach%2C_Gold_Coast%2C_Queensland%2C_Australia.jpg",
+    "plan": [
+      "Day 1: Arrival & Surfers Paradise Beach",
+      "Day 2: Currumbin Wildlife Sanctuary",
+      "Day 3: Sea World",
+      "Day 4: Warner Bros. Movie World",
+      "Day 5: Hinterland day trip (Lamington National Park)",
+      "Day 6: Wet'n'Wild Gold Coast",
+      "Day 7: SkyPoint Observation Deck & Shopping",
+      "Day 8: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 25,
+      "baseHumidity": 65,
+      "baseWind": 25,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Greece",
+    "destination": "Santorini",
+    "category": "Couple",
+    "description": "Iconic blue domes, sunset cruises, and wine tasting.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Panoramic_view_of_Oia%2C_Santorini_island_%28Thira%29%2C_Greece.jpg",
+    "plan": [
+      "Day 1: Arrival in Oia & Sunset viewing",
+      "Day 2: Catamaran Cruise around the Caldera",
+      "Day 3: Wine tasting tour at local vineyards",
+      "Day 4: Relaxing at Red Beach & Fira exploration",
+      "Day 5: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 22,
+      "baseHumidity": 50,
+      "baseWind": 30,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Maldives",
+    "destination": "Baa Atoll",
+    "category": "Couple",
+    "description": "Private overwater villas and dining under the stars.",
+    "duration": 6,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Reethi_Beach_Maldives.jpg",
+    "plan": [
+      "Day 1: Seaplane transfer & Check-in to Overwater Villa",
+      "Day 2: Snorkeling with Manta Rays",
+      "Day 3: Couple's Spa Treatment",
+      "Day 4: Sunset Dolphin Cruise",
+      "Day 5: Private beach dinner",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 29,
+      "baseHumidity": 85,
+      "baseWind": 15,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "France",
+    "destination": "Paris",
+    "category": "Couple",
+    "description": "The 'City of Love'—picnics by the Eiffel Tower and art.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tour_eiffel_at_sunrise_from_the_trocadero.jpg",
+    "plan": [
+      "Day 1: Arrival & Eiffel Tower at night",
+      "Day 2: Louvre Museum & Tuileries Garden",
+      "Day 3: Montmartre & Sacré-Cœur Basilica",
+      "Day 4: Seine River Dinner Cruise",
+      "Day 5: Shopping at Champs-Élysées & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 15,
+      "baseHumidity": 65,
+      "baseWind": 12,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "Italy",
+    "destination": "Amalfi Coast",
+    "category": "Couple",
+    "description": "Stunning cliffside towns and private boat tours.",
+    "duration": 6,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Atrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg",
+    "plan": [
+      "Day 1: Arrival in Positano",
+      "Day 2: Private boat tour to Capri",
+      "Day 3: Visit to Amalfi & Ravello",
+      "Day 4: Path of the Gods hike",
+      "Day 5: Cooking class with local chef",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 21,
+      "baseHumidity": 60,
+      "baseWind": 10,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Indonesia",
+    "destination": "Ubud, Bali",
+    "category": "Couple",
+    "description": "Jungle swings, luxury spas, and spiritual retreats.",
+    "duration": 7,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Rice_terrace_Kadewatan_200507-1.jpg",
+    "plan": [
+      "Day 1: Arrival & Villa check-in",
+      "Day 2: Tegalalang Rice Terrace & Bali Swing",
+      "Day 3: Sacred Monkey Forest Sanctuary",
+      "Day 4: Tirta Empul Temple purification ritual",
+      "Day 5: Traditional Balinese Massage",
+      "Day 6: Campuhan Ridge Walk",
+      "Day 7: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 27,
+      "baseHumidity": 95,
+      "baseWind": 5,
+      "defaultCondition": "Rainy"
+    }
+  },
+  {
+    "country": "Switzerland",
+    "destination": "Interlaken",
+    "category": "Adventure",
+    "description": "Paragliding, skiing, and scenic mountain trains.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Interlaken",
+      "Day 2: Paragliding over the Alps",
+      "Day 3: Jungfraujoch - Top of Europe train ride",
+      "Day 4: Canyoning or White Water Rafting",
+      "Day 5: Harder Kulm funicular",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 10,
+      "baseHumidity": 55,
+      "baseWind": 8,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Iceland",
+    "destination": "Reykjavík",
+    "category": "Adventure",
+    "description": "Northern Lights, Blue Lagoon, and massive waterfalls.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bright_Lights_%284373695306%29.jpg",
+    "plan": [
+      "Day 1: Arrival & Blue Lagoon soak",
+      "Day 2: Golden Circle Tour (Geysir, Gullfoss)",
+      "Day 3: South Coast waterfalls & Black Sand Beach",
+      "Day 4: Glacier Hiking or Ice Cave tour",
+      "Day 5: Reykjavík city walk & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 5,
+      "baseHumidity": 70,
+      "baseWind": 35,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "New Zealand",
+    "destination": "Queenstown",
+    "category": "Adventure",
+    "description": "Bungee jumping, hiking, and 'Lord of the Rings' tours.",
+    "duration": 7,
+    "img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival & Skyline Gondola",
+      "Day 2: Milford Sound Cruise",
+      "Day 3: Kawarau Bridge Bungee Jump",
+      "Day 4: Jet boat ride on Shotover River",
+      "Day 5: Glenorchy & Lord of the Rings locations",
+      "Day 6: Hike Ben Lomond Track",
+      "Day 7: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 14,
+      "baseHumidity": 60,
+      "baseWind": 20,
+      "defaultCondition": "Windy"
+    }
+  },
+  {
+    "country": "Norway",
+    "destination": "Lofoten Islands",
+    "category": "Adventure",
+    "description": "Hiking through fjords and seeing the Midnight Sun.",
+    "duration": 6,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lofoten.landscapes1.jpg",
+    "plan": [
+      "Day 1: Arrival in Svolvær",
+      "Day 2: Fishing village of Reine",
+      "Day 3: Hike Reinebringen",
+      "Day 4: Sea Eagle Safari",
+      "Day 5: Henningsvær village exploration",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 8,
+      "baseHumidity": 75,
+      "baseWind": 25,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "Canada",
+    "destination": "Banff",
+    "category": "Adventure",
+    "description": "Turquoise lakes and rocky mountain wildlife.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1501114676295-bbbcc7a12466?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival & Banff Townsite",
+      "Day 2: Lake Louise & Moraine Lake",
+      "Day 3: Johnston Canyon Ice Walk (or hike)",
+      "Day 4: Banff Gondola & Hot Springs",
+      "Day 5: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 12,
+      "baseHumidity": 40,
+      "baseWind": 15,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Italy",
+    "destination": "Rome",
+    "category": "Culture",
+    "description": "The Colosseum, Roman Forum, and world-class pasta.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+    "plan": [
+      "Day 1: Arrival & Trevi Fountain",
+      "Day 2: Colosseum & Roman Forum",
+      "Day 3: Vatican Museums & St. Peter's Basilica",
+      "Day 4: Pantheon & Piazza Navona",
+      "Day 5: Gelato tasting & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 20,
+      "baseHumidity": 50,
+      "baseWind": 10,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Egypt",
+    "destination": "Giza/Cairo",
+    "category": "Culture",
+    "description": "The Great Pyramids and incredible Nile River cruises.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+    "plan": [
+      "Day 1: Arrival in Cairo",
+      "Day 2: Pyramids of Giza & Sphinx",
+      "Day 3: Egyptian Museum & Khan el-Khalili market",
+      "Day 4: Day trip to Alexandria or Saqqara",
+      "Day 5: Nile Dinner Cruise & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 32,
+      "baseHumidity": 30,
+      "baseWind": 15,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Spain",
+    "destination": "Barcelona",
+    "category": "Culture",
+    "description": "Gaudí’s architecture and vibrant night markets.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sagrada_Familia_03.jpg",
+    "plan": [
+      "Day 1: Arrival & Las Ramblas",
+      "Day 2: Sagrada Família & Park Güell",
+      "Day 3: Gothic Quarter walking tour",
+      "Day 4: Casa Batlló & Tapas tour",
+      "Day 5: Beach relaxation & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 22,
+      "baseHumidity": 60,
+      "baseWind": 15,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Turkey",
+    "destination": "Cappadocia",
+    "category": "Culture",
+    "description": "Famous hot air balloon rides over ancient cave dwellings.",
+    "duration": 4,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cappadocia_Balloon_Inflating_Wikimedia_Commons.JPG",
+    "plan": [
+      "Day 1: Arrival & Cave Hotel Check-in",
+      "Day 2: Sunrise Hot Air Balloon Ride",
+      "Day 3: Göreme Open Air Museum & Pottery workshop",
+      "Day 4: Derinkuyu Underground City & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 18,
+      "baseHumidity": 45,
+      "baseWind": 10,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Thailand",
+    "destination": "Chiang Mai",
+    "category": "Culture",
+    "description": "Ancient temples, cooking classes, and elephant sanctuaries.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival & Night Bazaar",
+      "Day 2: Doi Suthep Temple",
+      "Day 3: Elephant Jungle Sanctuary (Ethical)",
+      "Day 4: Thai Cooking Class",
+      "Day 5: Old City Temple Tour & Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 30,
+      "baseHumidity": 80,
+      "baseWind": 5,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Belgium",
+    "destination": "Boom (Tomorrowland)",
+    "category": "Culture",
+    "description": "Experience Tomorrowland with massive stages, global DJs, and a high-energy crowd.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Brussels and transfer to Boom",
+      "Day 2: Tomorrowland opening day highlights",
+      "Day 3: Full festival experience and themed stages",
+      "Day 4: Recovery brunch and Antwerp city walk",
+      "Day 5: Souvenir shopping and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 22,
+      "baseHumidity": 65,
+      "baseWind": 12,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "USA",
+    "destination": "Indio, California",
+    "category": "Culture",
+    "description": "A desert festival getaway with headline artists, art installations, and sunset sets.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Palm Springs and hotel check-in",
+      "Day 2: Festival grounds orientation and first performances",
+      "Day 3: Full day of live music and food pop-ups",
+      "Day 4: Poolside recovery and evening headline set",
+      "Day 5: Brunch and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 34,
+      "baseHumidity": 30,
+      "baseWind": 14,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Germany",
+    "destination": "Munich (Oktoberfest)",
+    "category": "Culture",
+    "description": "Traditional Bavarian tents, parades, music, and authentic Oktoberfest cuisine.",
+    "duration": 4,
+    "img": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Munich and old town walk",
+      "Day 2: Oktoberfest tent reservation and fairground rides",
+      "Day 3: Bavarian parade route and beer garden evening",
+      "Day 4: Local market visit and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 17,
+      "baseHumidity": 70,
+      "baseWind": 10,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Brazil",
+    "destination": "Rio de Janeiro (Carnival)",
+    "category": "Culture",
+    "description": "Samba schools, street blocos, and iconic Carnival celebrations in Rio.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Copacabana promenade",
+      "Day 2: Sambadrome parade night",
+      "Day 3: Bloco street parties and local food tour",
+      "Day 4: Sugarloaf cable car and sunset samba show",
+      "Day 5: Beach morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 30,
+      "baseHumidity": 78,
+      "baseWind": 16,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "India",
+    "destination": "Jaipur (Holi Festival)",
+    "category": "Culture",
+    "description": "Celebrate Holi with color events, folk music, and heritage palaces in Jaipur.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Holi_Festival_In_India.jpg",
+    "plan": [
+      "Day 1: Arrival and evening market walk",
+      "Day 2: Amer Fort and City Palace guided tour",
+      "Day 3: Holi celebration event with local hosts",
+      "Day 4: Traditional Rajasthani dinner and cultural show",
+      "Day 5: Handicraft shopping and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 29,
+      "baseHumidity": 40,
+      "baseWind": 12,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Peru",
+    "destination": "Cusco & Machu Picchu",
+    "category": "Adventure",
+    "description": "High-altitude trails, Incan history, and unforgettable sunrise views at Machu Picchu.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Cusco and acclimatization",
+      "Day 2: Sacred Valley village tour",
+      "Day 3: Train to Aguas Calientes",
+      "Day 4: Machu Picchu guided circuit",
+      "Day 5: Cusco culinary tour and free time",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 16,
+      "baseHumidity": 55,
+      "baseWind": 18,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "UAE",
+    "destination": "Dubai",
+    "category": "Couple",
+    "description": "Luxury skyline views, desert adventures, and premium waterfront dining.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Dubai Marina cruise",
+      "Day 2: Burj Khalifa and Dubai Mall exploration",
+      "Day 3: Desert safari with dune bashing",
+      "Day 4: Palm Jumeirah beach day and dinner",
+      "Day 5: Souk visit and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 35,
+      "baseHumidity": 45,
+      "baseWind": 20,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "South Africa",
+    "destination": "Cape Town",
+    "category": "Adventure",
+    "description": "Table Mountain, coastal drives, and world-class wildlife and vineyards nearby.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and V&A Waterfront",
+      "Day 2: Table Mountain cableway and city tour",
+      "Day 3: Cape Peninsula and penguin colony visit",
+      "Day 4: Winelands day trip",
+      "Day 5: Optional shark cage or safari excursion",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 21,
+      "baseHumidity": 68,
+      "baseWind": 22,
+      "defaultCondition": "Windy"
+    }
+  },
+  {
+    "country": "Finland",
+    "destination": "Rovaniemi",
+    "category": "Family",
+    "description": "Arctic adventures with Santa Village, husky rides, and northern lights chasing.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Santa Claus Village",
+      "Day 2: Reindeer farm and Arctic museum",
+      "Day 3: Husky sledding and snow activities",
+      "Day 4: Northern lights tour at night",
+      "Day 5: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": -2,
+      "baseHumidity": 80,
+      "baseWind": 14,
+      "defaultCondition": "Snowy"
+    }
+  },
+  {
+    "country": "Jordan",
+    "destination": "Petra & Wadi Rum",
+    "category": "Adventure",
+    "description": "Explore Petra's rose-red canyons and camp under the stars in Wadi Rum.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Amman and transfer to Petra",
+      "Day 2: Full-day Petra site exploration",
+      "Day 3: Jeep safari in Wadi Rum",
+      "Day 4: Desert camp experience and stargazing",
+      "Day 5: Return to Amman and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 24,
+      "baseHumidity": 30,
+      "baseWind": 15,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Seychelles",
+    "destination": "Mahe Island",
+    "category": "Couple",
+    "description": "Crystal-clear lagoons, private beaches, and romantic island sunsets.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Mahe and beachfront resort check-in",
+      "Day 2: Anse Intendance beach and coastal drive",
+      "Day 3: Island hopping and snorkeling tour",
+      "Day 4: Sunset cruise and Creole dinner",
+      "Day 5: Spa morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 29,
+      "baseHumidity": 78,
+      "baseWind": 14,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Philippines",
+    "destination": "Palawan",
+    "category": "Adventure",
+    "description": "Hidden lagoons, limestone cliffs, kayaking routes, and coral reefs.",
+    "duration": 6,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/El_Nido_Bay%2C_Island_lagoon%2C_Palawan%2C_Philippines.jpg",
+    "plan": [
+      "Day 1: Arrival in El Nido and town walk",
+      "Day 2: Big Lagoon and Secret Lagoon island tour",
+      "Day 3: Reef snorkeling and beach picnic",
+      "Day 4: Kayaking and cliff viewpoint trek",
+      "Day 5: Underground river excursion",
+      "Day 6: Free morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 30,
+      "baseHumidity": 82,
+      "baseWind": 12,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "French Polynesia",
+    "destination": "Bora Bora",
+    "category": "Couple",
+    "description": "Overwater villas, turquoise waters, and luxury island experiences.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and overwater bungalow check-in",
+      "Day 2: Lagoon boat safari and snorkeling",
+      "Day 3: Mount Otemanu viewpoint and local lunch",
+      "Day 4: Private beach day and sunset dinner",
+      "Day 5: Morning paddleboarding and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 28,
+      "baseHumidity": 76,
+      "baseWind": 13,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Croatia",
+    "destination": "Hvar Island",
+    "category": "Couple",
+    "description": "Mediterranean island vibes, old town charm, and scenic coves.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival by ferry and old town walk",
+      "Day 2: Pakleni Islands boat trip",
+      "Day 3: Lavender fields and hilltop fortress",
+      "Day 4: Beach clubs and sunset promenade",
+      "Day 5: Brunch and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 25,
+      "baseHumidity": 64,
+      "baseWind": 11,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Indonesia",
+    "destination": "Gili Islands",
+    "category": "Couple",
+    "description": "Car-free islands, sea turtle snorkeling, and laid-back beach cafes.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Gili Trawangan and beach evening",
+      "Day 2: Snorkeling with turtles at Gili Meno",
+      "Day 3: Cycling island loop and sunset point",
+      "Day 4: Glass-bottom boat tour",
+      "Day 5: Leisure morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 29,
+      "baseHumidity": 80,
+      "baseWind": 10,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Thailand",
+    "destination": "Phuket & Phi Phi Islands",
+    "category": "Family",
+    "description": "Island-hopping adventure with kid-friendly beaches and marine life.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Phuket and Patong beachfront stroll",
+      "Day 2: Phi Phi islands speedboat day tour",
+      "Day 3: Phuket aquarium and family beach time",
+      "Day 4: James Bond Island excursion",
+      "Day 5: Old Phuket Town and cultural show",
+      "Day 6: Shopping and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 31,
+      "baseHumidity": 84,
+      "baseWind": 9,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Spain",
+    "destination": "Ibiza",
+    "category": "Culture",
+    "description": "Beach clubs, old-town architecture, and vibrant Mediterranean nightlife.",
+    "duration": 4,
+    "img": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Ibiza Old Town walk",
+      "Day 2: Cala Comte beach day and sunset spot",
+      "Day 3: Local market and evening music event",
+      "Day 4: Brunch and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 27,
+      "baseHumidity": 62,
+      "baseWind": 12,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Portugal",
+    "destination": "Madeira Island",
+    "category": "Adventure",
+    "description": "Volcanic cliffs, lush levada trails, and dramatic Atlantic viewpoints.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Funchal and seafront walk",
+      "Day 2: Cabo Girao skywalk and city viewpoints",
+      "Day 3: Levada hike through Laurisilva forest",
+      "Day 4: Pico do Arieiro sunrise drive",
+      "Day 5: Coastal villages and local cuisine tour",
+      "Day 6: Market visit and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 22,
+      "baseHumidity": 67,
+      "baseWind": 16,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "India",
+    "destination": "Goa (Sunburn Festival)",
+    "category": "Culture",
+    "description": "Beachside EDM festival experience with top artists and sunset stages.",
+    "duration": 4,
+    "img": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Goa and beachfront check-in",
+      "Day 2: Sunburn Festival day one and sunset arena",
+      "Day 3: Sunburn main stage performances and nightlife",
+      "Day 4: Brunch by the beach and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 30,
+      "baseHumidity": 75,
+      "baseWind": 10,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Switzerland",
+    "destination": "Zermatt",
+    "category": "Adventure",
+    "description": "Matterhorn views, alpine rail journeys, and mountain adventures year-round.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Zermatt and village walk",
+      "Day 2: Gornergrat railway and Matterhorn viewpoints",
+      "Day 3: Glacier Paradise cable car experience",
+      "Day 4: Alpine hiking trail and photo stops",
+      "Day 5: Wellness spa and local Swiss dining",
+      "Day 6: Scenic train departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 9,
+      "baseHumidity": 58,
+      "baseWind": 18,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Vietnam",
+    "destination": "Ha Long Bay",
+    "category": "Family",
+    "description": "Limestone islands, calm cruises, caves, and floating village culture.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Hanoi and transfer to bay",
+      "Day 2: Overnight cruise and kayaking session",
+      "Day 3: Cave exploration and beach stop",
+      "Day 4: Floating fishing village and cooking class",
+      "Day 5: Return to Hanoi and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 27,
+      "baseHumidity": 82,
+      "baseWind": 11,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "Morocco",
+    "destination": "Marrakech & Sahara",
+    "category": "Culture",
+    "description": "Colorful souks, desert camps, and historic architecture across Morocco.",
+    "duration": 6,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavillon_Menarag%C3%A4rten.jpg",
+    "plan": [
+      "Day 1: Arrival in Marrakech and medina walk",
+      "Day 2: Bahia Palace and Majorelle Garden",
+      "Day 3: Drive to Merzouga via Atlas foothills",
+      "Day 4: Camel trek and Sahara sunset camp",
+      "Day 5: Desert sunrise and return journey",
+      "Day 6: Last-minute shopping and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 28,
+      "baseHumidity": 36,
+      "baseWind": 15,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Mexico",
+    "destination": "Cancun & Isla Mujeres",
+    "category": "Family",
+    "description": "Turquoise waters, reef snorkeling, and relaxed Caribbean beach days.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Cancun and hotel check-in",
+      "Day 2: Catamaran to Isla Mujeres",
+      "Day 3: Snorkeling at reef and beach picnic",
+      "Day 4: Chichen Itza day trip option",
+      "Day 5: Free morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 31,
+      "baseHumidity": 79,
+      "baseWind": 17,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Austria",
+    "destination": "Vienna",
+    "category": "Culture",
+    "description": "Imperial palaces, classical concerts, and elegant coffeehouse culture.",
+    "duration": 4,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Schoenbrunn_philharmoniker_2012.jpg",
+    "plan": [
+      "Day 1: Arrival and Ringstrasse tram tour",
+      "Day 2: Schonbrunn Palace and gardens",
+      "Day 3: Belvedere Museum and old town walk",
+      "Day 4: Morning cafe visit and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 17,
+      "baseHumidity": 65,
+      "baseWind": 9,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Tanzania",
+    "destination": "Zanzibar",
+    "category": "Couple",
+    "description": "Spice island beaches, dhow sunsets, and romantic oceanfront stays.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Stone Town and heritage walk",
+      "Day 2: Spice farm experience and market tasting",
+      "Day 3: Snorkeling and sandbank excursion",
+      "Day 4: Beach relaxation and sunset dhow cruise",
+      "Day 5: Spa morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 30,
+      "baseHumidity": 76,
+      "baseWind": 12,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Argentina",
+    "destination": "El Calafate (Patagonia)",
+    "category": "Adventure",
+    "description": "Glacier trekking, dramatic lakes, and Patagonia's iconic landscapes.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in El Calafate and lakeside sunset",
+      "Day 2: Perito Moreno Glacier boardwalks",
+      "Day 3: Glacier mini-trek adventure",
+      "Day 4: Boat safari to glacier walls",
+      "Day 5: Patagonian ranch visit and horse ride",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 11,
+      "baseHumidity": 54,
+      "baseWind": 24,
+      "defaultCondition": "Windy"
+    }
+  },
+  {
+    "country": "Japan",
+    "destination": "Kyoto",
+    "category": "Culture",
+    "description": "Historic temples, bamboo groves, tea houses, and seasonal gardens.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1492571350019-22de08371fd3?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Gion evening walk",
+      "Day 2: Fushimi Inari shrine gates",
+      "Day 3: Arashiyama bamboo grove and river area",
+      "Day 4: Kiyomizu-dera and tea ceremony",
+      "Day 5: Nishiki market and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 19,
+      "baseHumidity": 68,
+      "baseWind": 8,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "Netherlands",
+    "destination": "Amsterdam",
+    "category": "Couple",
+    "description": "Canal cruises, museum districts, and charming bike-friendly streets.",
+    "duration": 4,
+    "img": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and canal-side dinner",
+      "Day 2: Rijksmuseum and Jordaan neighborhood",
+      "Day 3: Countryside windmills day trip",
+      "Day 4: Flower market stroll and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 14,
+      "baseHumidity": 74,
+      "baseWind": 13,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "Slovenia",
+    "destination": "Lake Bled & Ljubljana",
+    "category": "Family",
+    "description": "Storybook lakes, castle views, and walkable old-town city charm.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Ljubljana and riverside walk",
+      "Day 2: Lake Bled boat ride and castle visit",
+      "Day 3: Vintgar Gorge nature trail",
+      "Day 4: Dragon Bridge area and food tour",
+      "Day 5: Scenic brunch and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 18,
+      "baseHumidity": 69,
+      "baseWind": 10,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Bhutan",
+    "destination": "Paro & Thimphu",
+    "category": "Culture",
+    "description": "Monastery hikes, peaceful valleys, and authentic Himalayan cultural stays.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paro%2C_Paro%2C_Bhutan_%288026008882%29.jpg",
+    "plan": [
+      "Day 1: Arrival in Paro and riverside stroll",
+      "Day 2: Tiger's Nest Monastery trek",
+      "Day 3: Transfer to Thimphu and city highlights",
+      "Day 4: Buddha Dordenma and local handicraft markets",
+      "Day 5: Traditional breakfast and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 16,
+      "baseHumidity": 52,
+      "baseWind": 9,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Chile",
+    "destination": "Atacama Desert",
+    "category": "Adventure",
+    "description": "Moonlike desert landscapes, high-altitude lagoons, and incredible stargazing skies.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in San Pedro de Atacama",
+      "Day 2: Valle de la Luna sunset tour",
+      "Day 3: Altiplanic lagoons and salt flats",
+      "Day 4: Tatio geysers sunrise experience",
+      "Day 5: Observatory stargazing session",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 23,
+      "baseHumidity": 24,
+      "baseWind": 17,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Greece",
+    "destination": "Crete",
+    "category": "Family",
+    "description": "Ancient ruins, turquoise coves, and family-friendly Mediterranean seaside towns.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Heraklion and old port walk",
+      "Day 2: Knossos Palace and archaeology museum",
+      "Day 3: Elafonissi pink beach day",
+      "Day 4: Chania old town exploration",
+      "Day 5: Boat trip to Balos lagoon",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 26,
+      "baseHumidity": 61,
+      "baseWind": 14,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "USA",
+    "destination": "Maui, Hawaii",
+    "category": "Couple",
+    "description": "Road-to-Hana waterfalls, volcanic sunsets, and romantic island beaches.",
+    "duration": 6,
+    "img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Maui and beachfront check-in",
+      "Day 2: Road to Hana scenic drive",
+      "Day 3: Snorkeling at Molokini crater",
+      "Day 4: Haleakala sunrise and upcountry lunch",
+      "Day 5: Sunset cruise and island dining",
+      "Day 6: Departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 29,
+      "baseHumidity": 72,
+      "baseWind": 16,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Czech Republic",
+    "destination": "Prague",
+    "category": "Culture",
+    "description": "Fairy-tale old town squares, riverside castles, and historic cafe culture.",
+    "duration": 4,
+    "img": "https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Charles Bridge evening walk",
+      "Day 2: Prague Castle and St. Vitus Cathedral",
+      "Day 3: Old Town Astronomical Clock and local food tour",
+      "Day 4: Vltava river cruise and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 15,
+      "baseHumidity": 67,
+      "baseWind": 10,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "Turkey",
+    "destination": "Istanbul",
+    "category": "Culture",
+    "description": "Grand bazaars, Bosphorus cruises, and layered history across two continents.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Sultanahmet district walk",
+      "Day 2: Hagia Sophia and Blue Mosque",
+      "Day 3: Grand Bazaar and Spice Bazaar shopping",
+      "Day 4: Bosphorus cruise and Galata Tower views",
+      "Day 5: Turkish breakfast and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 21,
+      "baseHumidity": 63,
+      "baseWind": 12,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Kenya",
+    "destination": "Masai Mara",
+    "category": "Adventure",
+    "description": "Big Five safari drives, golden savannah horizons, and luxury bush camps.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Nairobi and transfer to camp",
+      "Day 2: Morning and evening game drives",
+      "Day 3: Hot air balloon safari option",
+      "Day 4: Maasai village cultural visit",
+      "Day 5: Final game drive and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 24,
+      "baseHumidity": 58,
+      "baseWind": 13,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Malaysia",
+    "destination": "Langkawi",
+    "category": "Family",
+    "description": "Calm tropical beaches, mangrove tours, and cable car sky bridge views.",
+    "duration": 5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Eagle_square_at_Kuah_Langkawi.jpg",
+    "plan": [
+      "Day 1: Arrival and Pantai Cenang sunset",
+      "Day 2: Island hopping and beach picnic",
+      "Day 3: Langkawi SkyCab and Sky Bridge",
+      "Day 4: Mangrove geopark boat tour",
+      "Day 5: Duty-free shopping and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 31,
+      "baseHumidity": 83,
+      "baseWind": 10,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Ireland",
+    "destination": "Dublin & Cliffs of Moher",
+    "category": "Couple",
+    "description": "Historic streets, coastal cliffs, and cozy pub music nights.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Dublin and Temple Bar walk",
+      "Day 2: Trinity College and city landmarks",
+      "Day 3: Day trip to Cliffs of Moher",
+      "Day 4: Coastal village stop and whiskey tasting",
+      "Day 5: Souvenir shopping and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 13,
+      "baseHumidity": 78,
+      "baseWind": 18,
+      "defaultCondition": "Windy"
+    }
+  },
+  {
+    "country": "Nepal",
+    "destination": "Pokhara",
+    "category": "Adventure",
+    "description": "Lakeside mountain city with paragliding, caves, and Himalayan panoramas.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and Phewa Lake evening boat ride",
+      "Day 2: Sarangkot sunrise and paragliding",
+      "Day 3: Davis Falls and Gupteshwor cave",
+      "Day 4: World Peace Pagoda hike",
+      "Day 5: Lakeside brunch and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 20,
+      "baseHumidity": 71,
+      "baseWind": 9,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Norway",
+    "destination": "Tromso",
+    "category": "Adventure",
+    "description": "Arctic fjords, northern lights, and winter wilderness adventures.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Tromso and harbor walk",
+      "Day 2: Fjord cruise and arctic wildlife spotting",
+      "Day 3: Northern lights chase at night",
+      "Day 4: Reindeer camp and Sami cultural visit",
+      "Day 5: Cable car viewpoint and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 2,
+      "baseHumidity": 76,
+      "baseWind": 18,
+      "defaultCondition": "Snowy"
+    }
+  },
+  {
+    "country": "Sri Lanka",
+    "destination": "Ella & Nuwara Eliya",
+    "category": "Family",
+    "description": "Tea-country train rides, waterfalls, and cool mountain scenery.",
+    "duration": 6,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nuwara-e.jpg",
+    "plan": [
+      "Day 1: Arrival in Kandy and hill-country transfer",
+      "Day 2: Scenic train to Ella",
+      "Day 3: Nine Arches Bridge and tea factory",
+      "Day 4: Little Adam's Peak sunrise hike",
+      "Day 5: Nuwara Eliya gardens and lake walk",
+      "Day 6: Return and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 22,
+      "baseHumidity": 79,
+      "baseWind": 8,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Vietnam",
+    "destination": "Da Nang & Hoi An",
+    "category": "Culture",
+    "description": "Golden beaches, lantern-lit old town evenings, and central Vietnam cuisine.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Da Nang and My Khe beach sunset",
+      "Day 2: Marble Mountains and Dragon Bridge",
+      "Day 3: Hoi An ancient town and lantern workshop",
+      "Day 4: Basket boat ride and cooking class",
+      "Day 5: Riverside market and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 29,
+      "baseHumidity": 82,
+      "baseWind": 11,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "France",
+    "destination": "French Riviera (Nice)",
+    "category": "Couple",
+    "description": "Azure coastlines, seaside promenades, and elegant Mediterranean evenings.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Nice and Promenade des Anglais",
+      "Day 2: Old Town market and coastal dining",
+      "Day 3: Day trip to Eze and Monaco",
+      "Day 4: Cannes shoreline and sunset viewpoint",
+      "Day 5: Beach brunch and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 24,
+      "baseHumidity": 64,
+      "baseWind": 10,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Oman",
+    "destination": "Muscat & Wadi Shab",
+    "category": "Adventure",
+    "description": "Dramatic wadis, coastal mountain roads, and authentic Arabian hospitality.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1521292270410-a8c4d716d518?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Muscat and Mutrah Corniche",
+      "Day 2: Grand Mosque and royal opera district",
+      "Day 3: Wadi Shab hiking and swimming",
+      "Day 4: Bimmah Sinkhole and coastal viewpoints",
+      "Day 5: Souq shopping and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 34,
+      "baseHumidity": 47,
+      "baseWind": 14,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Peru",
+    "destination": "Arequipa & Colca Canyon",
+    "category": "Adventure",
+    "description": "Volcanic cityscapes, condor viewpoints, and deep canyon trekking routes.",
+    "duration": 6,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colca_Canyon_Puno.jpg",
+    "plan": [
+      "Day 1: Arrival in Arequipa and plaza walk",
+      "Day 2: Santa Catalina monastery and local food tour",
+      "Day 3: Transfer to Colca Canyon",
+      "Day 4: Condor Cross viewpoint at sunrise",
+      "Day 5: Canyon village trails and hot springs",
+      "Day 6: Return and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 18,
+      "baseHumidity": 49,
+      "baseWind": 16,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Rwanda",
+    "destination": "Volcanoes National Park",
+    "category": "Adventure",
+    "description": "Mountain gorilla trekking, rainforest trails, and misty volcanic landscapes.",
+    "duration": 4,
+    "img": "https://images.unsplash.com/photo-1547721064-da6cfb341d50?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Kigali and city highlights",
+      "Day 2: Transfer to park lodge and briefing",
+      "Day 3: Gorilla trekking experience",
+      "Day 4: Dian Fossey trail option and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 19,
+      "baseHumidity": 85,
+      "baseWind": 7,
+      "defaultCondition": "Cloudy"
+    }
+  },
+  {
+    "country": "South Korea",
+    "destination": "Jeju Island",
+    "category": "Family",
+    "description": "Volcanic coastlines, lava tubes, and scenic island drives for all ages.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and seaside cafe route",
+      "Day 2: Hallasan foothill trails and viewpoints",
+      "Day 3: Manjanggul lava tube and museums",
+      "Day 4: Seongsan Ilchulbong sunrise peak",
+      "Day 5: Local market and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 21,
+      "baseHumidity": 73,
+      "baseWind": 12,
+      "defaultCondition": "Windy"
+    }
+  },
+  {
+    "country": "New Zealand",
+    "destination": "Aoraki/Mount Cook",
+    "category": "Adventure",
+    "description": "Glacial valleys, alpine lakes, and some of the clearest night skies.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and lakefront scenic drive",
+      "Day 2: Hooker Valley track hike",
+      "Day 3: Glacier heli-hike option",
+      "Day 4: Stargazing in dark sky reserve",
+      "Day 5: Alpine breakfast and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 12,
+      "baseHumidity": 57,
+      "baseWind": 19,
+      "defaultCondition": "Partly Cloudy"
+    }
+  },
+  {
+    "country": "Madagascar",
+    "destination": "Nosy Be",
+    "category": "Couple",
+    "description": "Pristine beaches, coral snorkeling, and tropical island sunsets.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival and beachfront resort check-in",
+      "Day 2: Snorkeling reef safari",
+      "Day 3: Island hopping by boat",
+      "Day 4: Ylang-ylang plantation and sunset cruise",
+      "Day 5: Relaxation morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 30,
+      "baseHumidity": 77,
+      "baseWind": 11,
+      "defaultCondition": "Sunny"
+    }
+  },
+  {
+    "country": "Germany",
+    "destination": "Black Forest",
+    "category": "Family",
+    "description": "Storybook villages, forest trails, and lakeside relaxation in southern Germany.",
+    "duration": 5,
+    "img": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=60",
+    "plan": [
+      "Day 1: Arrival in Freiburg and old town walk",
+      "Day 2: Lake Titisee boating and woodland paths",
+      "Day 3: Triberg waterfalls and cuckoo clock shops",
+      "Day 4: Scenic drive through alpine villages",
+      "Day 5: Local bakery morning and departure"
+    ],
+    "weatherProfile": {
+      "baseTemp": 17,
+      "baseHumidity": 70,
+      "baseWind": 9,
+      "defaultCondition": "Cloudy"
+    }
+  }
+]
