@@ -1,5 +1,5 @@
 <h1 align="center">WanderWise</h1>
-
+ 
 <p align="center">
   <strong>AI-powered travel planning platform built with React, Vite, Spring Boot, and MySQL.</strong>
 </p>
